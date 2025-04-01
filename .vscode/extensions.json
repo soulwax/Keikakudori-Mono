@@ -1,0 +1,18 @@
+{
+    "recommendations": [
+        "ms-dotnettools.csdevkit",
+        "ms-dotnettools.csharp",
+        "jchannon.csharpextensions",
+        "leopotam.csharpfixformat",
+        "mgcb-vscode.mgcb-vscode",
+        "fernhw.monogame-pipeline-vscode",
+        "formulahendry.dotnet-test-explorer",
+        "streetsidesoftware.code-spell-checker",
+        "gruntfuggly.todo-tree",
+        "eamodio.gitlens",
+        "ms-dotnettools.dotnet-interactive-vscode",
+        "patcx.vscode-nuget-gallery",
+        "kreativ-software.csharpextensions",
+        "esbenp.prettier-vscode"
+    ]
+}
