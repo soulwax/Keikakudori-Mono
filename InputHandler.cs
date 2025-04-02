@@ -1,5 +1,5 @@
 using Microsoft.Xna.Framework.Input;
-namespace keika
+namespace Keika
 {
 
     public class InputHandler
