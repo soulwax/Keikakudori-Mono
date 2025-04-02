@@ -2,7 +2,6 @@
     "recommendations": [
         "ms-dotnettools.csdevkit",
         "ms-dotnettools.csharp",
-        "jchannon.csharpextensions",
         "leopotam.csharpfixformat",
         "mgcb-vscode.mgcb-vscode",
         "fernhw.monogame-pipeline-vscode",
